@@ -1,0 +1,15 @@
+OEPRE Forbach — fichiers à déposer dans le dépôt GitHub
+
+À la racine du dépôt : index.html, sw.js, manifest.webmanifest.
+Dans le dossier icons/ : icon-180.png, icon-192.png, icon-512.png.
+
+Le logo du lycée et la photo d’accueil sont intégrés dans index.html : aucun
+dossier images/ n’est nécessaire.
+
+Le dossier audio/ n’est pas fourni dans cette archive. Si les audios ont été
+générés séparément, ajoutez-le à la racine du dépôt. Ne mettez pas en ligne
+generateur-audio.html : gardez-le sur votre ordinateur.
+
+Après remplacement des fichiers dans GitHub, attendez la fin du déploiement
+Pages, puis rechargez la page. Si l’application était déjà installée, fermez-la
+et rouvrez-la pour récupérer la nouvelle version.
